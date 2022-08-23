@@ -1,0 +1,19 @@
+{
+  "expo": {
+   "name": "Your App Name",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "your-app-slug",
+   "ios": {
+     "bundleIdentifier": "com.yourcompany.yourappname",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+    "config": {
+      "googleMobileAdsAppId": "ca-app-pub-5603666820258475~6450938336"
+    },
+     "package": "com.yourcompany.yourappname",
+     "versionCode": 1
+   }
+  }
+}
